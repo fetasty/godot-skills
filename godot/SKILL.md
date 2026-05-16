@@ -1,4 +1,4 @@
-﻿---
+---
 name: godot
 description: >-
   Godot Engine 4 specialist: architecture patterns, scene/node design, signals,

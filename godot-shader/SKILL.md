@@ -1,4 +1,4 @@
-﻿---
+---
 name: godot-shader
 description: >-
   Godot 4 shaders, materials, visual effects, and rendering customization: Godot

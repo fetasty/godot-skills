@@ -1,4 +1,4 @@
-﻿---
+---
 name: godot-csharp
 description: >-
   Godot 4 C# code quality: .NET patterns, attribute-based exports, signal delegates,

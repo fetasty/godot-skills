@@ -1,4 +1,4 @@
-﻿# Codex Godot Skills
+# Codex Godot Skills
 
 > :globe_with_meridians: [中文版本](./README_zh.md) | English
 

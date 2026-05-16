@@ -1,4 +1,4 @@
-﻿---
+---
 name: godot-gdextension
 description: >-
   Godot 4 GDExtension native code integration: godot-cpp (C++), godot-rust, custom

@@ -1,4 +1,4 @@
-﻿---
+---
 name: godot-gdscript
 description: >-
   Godot 4 GDScript code quality: static typing, signal architecture, coroutines,
